@@ -1,4 +1,6 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gallerysystems.com%2Fsql-for-tms-training-hands-on-skills-to-enhance-and-advance-tms-knowledge%2F&psig=AOvVaw1mG2IX39LfTcfLLUPX0AAk&ust=1684677391577000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDk7L-GhP8CFQAAAAAdAAAAABAE
+
+![alt text](https://sp-ao.shortpixel.ai/client/to_webp,q_lossless,ret_img,w_680/https://www.gallerysystems.com/wp-content/uploads/SQL-server.jpg)
+
 
 Olá comunidade !
 Publiquei este repositório com 2 datasets diferentes pra dar uma demonstração dos tópicos que venho estudando em SQL.
